@@ -35,6 +35,14 @@ Count Up
     margin-bottom: 10px;
     color: #4b4b4b;
 }
+.facts-two .timer2 {
+    display: block;
+    font-size: 66px;
+    line-height: 70px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #4b4b4b;
+}
 .facts-two .count-description {
     font-size: 14px;
     text-transform: uppercase;
