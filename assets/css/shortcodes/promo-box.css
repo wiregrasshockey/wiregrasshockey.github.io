@@ -111,13 +111,6 @@ Promo Box
 }
 
 
-@media (min-width: 992px) {
-    .content-promo-box.banner {
-        background: right top no-repeat #f5f5f5;
-    }
-}
-
-
 /*quote box*/
 .quote-box .quote-intro {
     display: block;
